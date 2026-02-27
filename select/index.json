@@ -1,0 +1,240 @@
+{
+  "version": 1,
+  "base_track": "Die For You",
+  "base_artist": "Joji",
+  "createdAt": "2026-02-27T09:39:19.481317Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Will They Die For You? [feat. Puff Daddy & Lil' Kim]",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/01_Will_They_Die_For_You__[feat._Puff_Daddy_&_Lil'_Kim]_Mase.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Will They Die For You? (Feat. Lil' Kim, Puff Daddy)",
+      "artist": "Mase",
+      "has_synced": false,
+      "path": "select/02_Will_They_Die_For_You__(Feat._Lil'_Kim,_Puff_Daddy)_Mase.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wanna Die For You",
+      "artist": "Netsky feat. Diane Charlemagne",
+      "has_synced": true,
+      "path": "select/03_Wanna_Die_For_You_Netsky_feat._Diane_Charlemagne.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wanna Die For You (feat. Diane Charlemagne)",
+      "artist": "Netsky",
+      "has_synced": true,
+      "path": "select/04_Wanna_Die_For_You_(feat._Diane_Charlemagne)_Netsky.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'd Die for You",
+      "artist": "Place Vendome",
+      "has_synced": false,
+      "path": "select/05_I'd_Die_for_You_Place_Vendome.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Die For You (feat. Dominic Fike)",
+      "artist": "Justin Bieber feat. Dominic Fike",
+      "has_synced": true,
+      "path": "select/06_Die_For_You_(feat._Dominic_Fike)_Justin_Bieber_feat._Dominic_Fike.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Die For You (feat. Dominic Fike)",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/07_Die_For_You_(feat._Dominic_Fike)_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Die for You",
+      "artist": "Drippin So Pretty",
+      "has_synced": false,
+      "path": "select/08_Die_for_You_Drippin_So_Pretty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Loverboy",
+      "has_synced": false,
+      "path": "select/09_I_Would_Die_for_You_Loverboy.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'd Die For You",
+      "artist": "Bon Jovi",
+      "has_synced": true,
+      "path": "select/10_I'd_Die_For_You_Bon_Jovi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Die For You Today",
+      "artist": "Alphaville",
+      "has_synced": false,
+      "path": "select/11_I_Die_For_You_Today_Alphaville.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Would Kill / Lie / Die (For You)",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/12_I_Would_Kill___Lie___Die_(For_You)_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Would Kill \u0000 Lie \u0000 Die (For You)",
+      "artist": "Atreyu",
+      "has_synced": true,
+      "path": "select/13_I_Would_Kill_\u0000_Lie_\u0000_Die_(For_You)_Atreyu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Could Die For You",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/14_I_Could_Die_For_You_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Would Die for You",
+      "artist": "Asia",
+      "has_synced": true,
+      "path": "select/15_I_Would_Die_for_You_Asia.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Die for You",
+      "artist": "Pennywise",
+      "has_synced": false,
+      "path": "select/16_Die_for_You_Pennywise.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_Die_For_You_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Die for You",
+      "artist": "Alice Cooper",
+      "has_synced": true,
+      "path": "select/18_Die_for_You_Alice_Cooper.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "To Die For",
+      "artist": "Arlo McKinley",
+      "has_synced": true,
+      "path": "select/19_To_Die_For_Arlo_McKinley.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Done With Everything, Die for Nothing",
+      "artist": "Children of Bodom",
+      "has_synced": false,
+      "path": "select/20_Done_With_Everything,_Die_for_Nothing_Children_of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Would You Die for Me",
+      "artist": "So",
+      "has_synced": false,
+      "path": "select/21_Would_You_Die_for_Me_So.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "To Die For",
+      "artist": "Kygo feat. St. Lundi",
+      "has_synced": true,
+      "path": "select/22_To_Die_For_Kygo_feat._St._Lundi.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "To Die For",
+      "artist": "Kygo",
+      "has_synced": true,
+      "path": "select/23_To_Die_For_Kygo.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Someone To Die For",
+      "artist": "Belly",
+      "has_synced": true,
+      "path": "select/24_Someone_To_Die_For_Belly.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Beautiful Music For You To Die For",
+      "artist": "Necro",
+      "has_synced": true,
+      "path": "select/25_Beautiful_Music_For_You_To_Die_For_Necro.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "To Die For",
+      "artist": "Automatic Loveletter",
+      "has_synced": true,
+      "path": "select/26_To_Die_For_Automatic_Loveletter.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Die for My Sins",
+      "artist": "Delcada",
+      "has_synced": false,
+      "path": "select/27_Die_for_My_Sins_Delcada.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "A Life To Die For",
+      "artist": "Treat",
+      "has_synced": true,
+      "path": "select/28_A_Life_To_Die_For_Treat.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Die For You",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_Die_For_You_Joji.txt"
+    }
+  ]
+}
